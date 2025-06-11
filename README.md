@@ -67,7 +67,3 @@ Execute the compiled binary:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-```
-
-If you'd like, I can also plug in your actual GitHub repo name instead of the placeholder!
-```
