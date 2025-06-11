@@ -6,7 +6,7 @@ A classic implementation of the Snake game that runs directly in the command-lin
 
 ## Description
 
-This project is a console-based version of the classic Snake game. The objective is to control the snake to eat the fruit that appears at random locations. Each time the snake eats, it grows longer. The game ends if the snake collides with the boundaries of the screen or with its own body. This project was developed to demonstrate a solid understanding of fundamental programming principles and C++ development without relying on external game libraries.
+This project is a console-based version of the classic Snake game. The objective is to control the snake to eat the fruit that appears at random locations. Each time the snake eats, it grows longer. The game ends if the snake collides with its own body. This project was developed to demonstrate a solid understanding of fundamental programming principles and C++ development without relying on external game libraries.
 
 ## Features
 
