@@ -12,7 +12,7 @@ This project is a console-based version of the classic Snake game. The objective
 
 - **Classic Gameplay:** Core mechanics of the original Snake game.
 - **Dynamic Growth:** The snake grows in length after consuming fruit.
-- **Collision Detection:** The game ends upon collision with the wall or the snake itself.
+- **Collision Detection:** The game ends upon collision with the snake itself.
 - **Score Tracking:** Keeps track of the fruit eaten.
 - **Flicker-Free Rendering:** Uses efficient console clearing and drawing techniques for a smooth visual experience.
 
